@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/example/HelloServlet.java=UTF-8
+encoding//src/main/java/com/example/dao/DepartmentDAO.java=UTF-8
+encoding//src/main/java/com/example/dao/GradeDAO.java=UTF-8
+encoding//src/main/java/com/example/dao/StudentDAO.java=UTF-8
+encoding//src/main/java/com/example/servlet/StudentServlet.java=UTF-8
+encoding//src/main/java/com/example/util/DatabaseConnection.java=UTF-8
+encoding//src/main/webapp/editStudent.jsp=UTF-8
+encoding//src/main/webapp/studentList.jsp=UTF-8
